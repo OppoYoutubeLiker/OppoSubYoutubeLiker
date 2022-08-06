@@ -1,6 +1,6 @@
 <div align="center">
     <img height="150" src="https://raw.githubusercontent.com/OppoYoutubeLiker/OppoSubYoutubeLiker/main/Images/logo_small.png"></img>
-    <h1>OppoSubYoutubeLiker</h1>
+    <h1>OppoSubYoutubeLiker(Скрипт покане опубликован)</h1>
 <h3>Это скрипт, который автоматически ставит лайк всем оппозиционным видео на которые вы подписаны на Youtube.</h3>
 </div>
 
